@@ -11,7 +11,31 @@
 </header>
 
 
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Clerivo Cleaning</title>
+    <style>
+        body{
+            margin:0;
+            font-family: Arial, sans-serif;
+            background-color:#E3F2FD; /* biru muda */
+            height:100vh; /* supaya full layar */
+            display:flex;
+            align-items:center;
+            justify-content:center;
+        }
 
+        h1{
+            color:#2c7be5;
+        }
+    </style>
+</head>
+<body>
+    <h1>Clerivo Cleaning Service</h1>
+</body>
+</html>
 
 
 
