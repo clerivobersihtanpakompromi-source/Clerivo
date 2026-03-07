@@ -28,37 +28,18 @@
 <body>
     <h1>Deep Bathroom Cleaning</h1>
 </body>
-Kamar mandi kembali seperti baru.
 
-Kami membersihkan setiap sudut kamar mandi secara menyeluruh — menghilangkan kerak, jamur, dan noda membandel pada lantai, dinding, toilet, dan wastafel.
-
-✔ Menghilangkan jamur & kerak
-✔ Membersihkan detail sudut
-✔ Hasil lebih higienis
 
     
 <body>
     <h1>New Hous Cleaning</h1>
 </body>
 </html>
-Rumah baru siap ditempati
 
-Kami membersihkan rumah baru dari debu pembangunan dan sisa kotoran sehingga rumah siap digunakan dengan kondisi bersih maksimal.
-
-✔ Membersihkan debu konstruksi
-✔ Kaca dan lantai dipoles
-✔ Rumah siap dihuni
 
 <body>
     <h1>General Cleaning</h1>
 </body>
-Rumah bersih setiap hari
-
-Layanan pembersihan menyeluruh untuk menjaga rumah tetap rapi, bersih, dan nyaman untuk seluruh keluarga.
-
-✔ Debu dan kotoran dibersihkan
-✔ Lantai dipel dan disanitasi
-✔ Area rumah lebih segar
 
 
 
