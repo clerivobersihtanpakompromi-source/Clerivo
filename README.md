@@ -3,7 +3,7 @@ CLERIVO HOME CLEANING
     <div class="hero-content">
         <h2>Rumah Bersih, Hidup Nyaman</h2>
         <p>Layanan pembersihan rumah profesional dengan harga terjangkau.</p>
- href="https://wa.me/6285313938404" target="_blank">
+ href="https://wa.me/6285313938404" 
 <button>Chat WhatsApp</button>
 
     
