@@ -29,22 +29,8 @@
     <h1>Deep Bathroom Cleaning</h1>
 </body>
 
-
     
-<body>
-    <h1>New Hous Cleaning</h1>
-</body>
-</html>
-
-
-<body>
-    <h1>General Cleaning</h1>
-</body>
-
-
-
-
-    
+   
 <section id="home" class="hero">
     <div class="hero-content">
         <h2>Rumah Bersih, Hidup Nyaman</h2>
