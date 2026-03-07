@@ -1,4 +1,3 @@
-</head>
 <body>
 
 <header>
@@ -11,7 +10,6 @@
 </header>
 
 
-<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -40,7 +38,6 @@
 
 
     
-CLERIVO HOME CLEANING
 <section id="home" class="hero">
     <div class="hero-content">
         <h2>Rumah Bersih, Hidup Nyaman</h2>
