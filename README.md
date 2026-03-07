@@ -26,7 +26,7 @@
 
 
 <body>
-    <h1> 🚿 Deep Bathroom Cleaning</h1>
+    <h1>Deep Bathroom Cleaning</h1>
 </body>
 Kamar mandi kembali seperti baru.
 
