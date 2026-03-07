@@ -25,9 +25,13 @@
             justify-content:center;
 
 
-<body>
-    <h1>Deep Bathroom Cleaning</h1>
-</body>
+<section class="service">
+    <h2>Deep Bathroom Cleaning</h2>
+    <p>
+        Layanan pembersihan kamar mandi secara menyeluruh untuk menghilangkan
+        kerak, noda sabun, jamur, dan bakteri.
+    </p>
+
 
     
    
