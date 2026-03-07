@@ -13,7 +13,7 @@
 <html lang="id">
 <head>
     <meta charset="UTF-8">
-    <title>Clerivo Cleaning</title>
+    <title>CLERIVO</title>
     <style>
         body{
             margin:0;
@@ -31,7 +31,7 @@
     </style>
 </head>
 <body>
-    <h1>Clerivo Cleaning Service</h1>
+    <h1>Deep Bathroom Cleaning</h1>
 </body>
 </html>
 
@@ -46,7 +46,32 @@ style="position:fixed; bottom:20px; right:20px;">
 <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="60">
 </a>
         
-</div><div class="ssr-category astro-degputgd"> <div class="ssr-category-box astro-degputgd"> <h3 class="ssr-category-title astro-degputgd">Deep Bathroom Cleaning, General Cleaning &amp; New House Cleaning </h3> <p class="ssr-category-desc astro-degputgd">Jasa pemersihan rumah , kost dan kantor.
+</div><div class="ssr-category astro-degputgd"> <div class="ssr-category-box astro-degputgd"> <h3 class="ssr-category-title astro-degputgd">Deep Bathroom Cleaning, General Cleaning &amp; New House Cleaning </h3> <p class="ssr-category-desc astro-degputgd">Jasa pembersihan rumah , kost dan kantor.
 Clerivo Bersih Tanpa Kompromi
 
     
+     }
+
+        h1{
+            color:#2c7be5;
+        }
+    </style>
+</head>
+<body>
+    <h1>New Hous Cleaning</h1>
+</body>
+</html>
+
+
+
+     }
+
+        h1{
+            color:#2c7be5;
+        }
+    </style>
+</head>
+<body>
+    <h1>General Cleaning</h1>
+</body>
+</html>
