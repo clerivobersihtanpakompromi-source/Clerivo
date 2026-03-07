@@ -2,8 +2,8 @@ CLERIVO HOME CLEANING
 <section id="home" class="hero">
     <div class="hero-content">
         <h2>Rumah Bersih, Hidup Nyaman</h2>
-<a href="https://wa.me/6281234567890" target="_blank">
-<button>Chat WhatsApp</button>
+<a href="https://wa.me/6285213938404" target="_blank">
+<img src="wa.png" width="100">
 </a>
 
 
