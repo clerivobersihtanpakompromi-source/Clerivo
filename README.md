@@ -31,23 +31,10 @@
     </style>
 </head>
 <body>
-    <h1>Deep Bathroom Cleaning</h1>
+    <h1>DEEP BATHROOM CLEANING</h1>
 </body>
 </html>
 
-
-
-    
-<section id="home" class="hero">
-    <div class="hero-content">
-        <h2>Rumah Bersih, Hidup Nyaman</h2>
-<a href="https://wa.me/62852113938404" target="_blank"
-style="position:fixed; bottom:20px; right:20px;">
-<img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="60">
-</a>
-        
-</div><div class="ssr-category astro-degputgd"> <div class="ssr-category-box astro-degputgd"> <h3 class="ssr-category-title astro-degputgd">DEEP BATHROOM CLEANING </h3> <p class="ssr-category-desc astro-degputgd">Jasa pembersihan rumah , kost dan kantor.
-Clerivo Bersih Tanpa Kompromi
 
     
      }
@@ -64,14 +51,24 @@ Clerivo Bersih Tanpa Kompromi
 
 
 
-     }
 
-        h1{
-            color:#2c7be5;
-        }
-    </style>
-</head>
 <body>
     <h1>General Cleaning</h1>
 </body>
-</html>
+
+
+
+
+
+    
+<section id="home" class="hero">
+    <div class="hero-content">
+        <h2>Rumah Bersih, Hidup Nyaman</h2>
+<a href="https://wa.me/62852113938404" target="_blank"
+style="position:fixed; bottom:20px; right:20px;">
+<img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="60">
+</a>
+        
+</div><div class="ssr-category astro-degputgd"> <div class="ssr-category-box astro-degputgd"> <h3 class="ssr-category-title astro-degputgd">DEEP BATHROOM CLEANING <
+                                                                                                                                                                       Jasa pembersihan rumah , kost dan kantor.
+Clerivo Bersih Tanpa Kompromi
