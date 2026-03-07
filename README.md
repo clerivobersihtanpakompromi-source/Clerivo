@@ -26,24 +26,15 @@
 
 
 <body>
-    <h1>General Cleaning</h1>
+    <h1>Deep Bathrrom Cleaning</h1>
 </body>
 
 
     
-     }
-
-        h1{
-            color:#2c7be5;
-        }
-    </style>
-</head>
 <body>
     <h1>New Hous Cleaning</h1>
 </body>
 </html>
-
-
 
 
 <body>
