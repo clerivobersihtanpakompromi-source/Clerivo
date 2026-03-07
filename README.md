@@ -23,17 +23,11 @@
             display:flex;
             align-items:center;
             justify-content:center;
-        }
 
-        h1{
-            color:#2c7be5;
-        }
-    </style>
-</head>
+
 <body>
-    <h1>DEEP BATHROOM CLEANING</h1>
+    <h1>General Cleaning</h1>
 </body>
-</html>
 
 
     
