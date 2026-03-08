@@ -21,6 +21,16 @@ style="position:fixed; bottom:20px; right:20px;">
 
 <h3 class="ssr-category-title astro-degputgd">Layanan pembersihan kamar mandi secara menyeluruh untuk menghilangkan kerak, noda sabun, jamur, dan bakteri.
 
+
+<h3 class="ssr-category-title astro-degputgd">GENERAL CLEANING
+
+<h3 class="ssr-category-title astro-degputgd">Layanan pembersihan rutin rumah seperti menyapu, mengepel, dan cocok untuk perawatan rumah rutin.
+
+
+<h3 class="ssr-category-title astro-degputgd">NEW HOUSE CLEANING
+
+<h3 class="ssr-category-title astro-degputgd">Layanan pembersihan rumah baru sebelum ditempati agar bersih, segar, dan siap dihuni.
+
     
 <div class="ssr-category astro-degputgd"> <div class="ssr-category-box astro-degputgd"> <h3 class="ssr-category-title astro-degputgd">Clerivo Bersih Tanpa Kompromi
 
