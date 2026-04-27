@@ -16,7 +16,7 @@
 style="position:fixed; bottom:20px; right:20px;">
 <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="60">
 </a>
-
+    
     <h3>Deep Bathroom Cleaning</h3>
     <p>Layanan pembersihan kamar mandi secara menyeluruh dengan teknik khusus untuk hasil maksimal.</p>
     
@@ -59,23 +59,6 @@ style="position:fixed; bottom:20px; right:20px;">
   </div>
 
 </section>
-        
-<h3 class="ssr-category-title astro-degputgd">DEEP BATHROOM CLEANING 
-
-<h3 class="ssr-category-title astro-degputgd">Layanan pembersihan kamar mandi secara menyeluruh untuk menghilangkan kerak, noda sabun, jamur, dan bakteri.
-
-
-<h3 class="ssr-category-title astro-degputgd">GENERAL CLEANING
-
-<h3 class="ssr-category-title astro-degputgd">Layanan pembersihan rutin rumah seperti menyapu, mengepel, dan cocok untuk perawatan rumah rutin.
-
-
-<h3 class="ssr-category-title astro-degputgd">NEW HOUSE CLEANING
-
-<h3 class="ssr-category-title astro-degputgd">Layanan pembersihan rumah baru sebelum ditempati agar bersih, segar, dan siap dihuni.
-
-    
-<div class="ssr-category astro-degputgd"> <div class="ssr-category-box astro-degputgd"> <h3 class="ssr-category-title astro-degputgd">Clerivo Bersih Tanpa Kompromi
 
 
 <html lang="id">
@@ -93,12 +76,6 @@ style="position:fixed; bottom:20px; right:20px;">
             justify-content:center;
 
 
-<section class="service">
-    <h2>Deep Bathroom Cleaning</h2>
-    <p>
-        Layanan pembersihan kamar mandi secara menyeluruh untuk menghilangkan
-        kerak, noda sabun, jamur, dan bakteri.
-    </p>
 
 
   
