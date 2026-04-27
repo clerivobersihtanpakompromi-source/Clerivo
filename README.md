@@ -16,6 +16,52 @@
 style="position:fixed; bottom:20px; right:20px;">
 <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="60">
 </a>
+
+<section id="category" class="services container">
+
+  <div class="card">
+    <h3>Deep Bathroom Cleaning</h3>
+    <p>Layanan pembersihan kamar mandi secara menyeluruh dengan teknik khusus untuk hasil maksimal.</p>
+    
+    <ul>
+      <li>Membersihkan kerak membandel & noda air</li>
+      <li>Menghilangkan jamur dan bakteri</li>
+      <li>Membersihkan lantai, dinding, dan kaca</li>
+      <li>Sanitasi toilet dan wastafel</li>
+    </ul>
+
+    <a href="https://wa.me/6285211393844" target="_blank" class="btn">Pesan Sekarang</a>
+  </div>
+
+  <div class="card">
+    <h3>General Cleaning</h3>
+    <p>Layanan pembersihan rutin untuk menjaga rumah tetap bersih, nyaman, dan sehat setiap hari.</p>
+
+    <ul>
+      <li>Menyapu dan mengepel lantai</li>
+      <li>Membersihkan debu pada furniture</li>
+      <li>Membersihkan dapur dan area umum</li>
+      <li>Perawatan kebersihan harian</li>
+    </ul>
+
+    <a href="https://wa.me/6285211393844" target="_blank" class="btn">Pesan Sekarang</a>
+  </div>
+
+  <div class="card">
+    <h3>New House Cleaning</h3>
+    <p>Pembersihan rumah baru sebelum ditempati agar lebih higienis, segar, dan siap digunakan.</p>
+
+    <ul>
+      <li>Membersihkan sisa debu renovasi</li>
+      <li>Pembersihan seluruh ruangan</li>
+      <li>Pembersihan kaca dan jendela</li>
+      <li>Final touch agar rumah siap huni</li>
+    </ul>
+
+    <a href="https://wa.me/6285211393844" target="_blank" class="btn">Pesan Sekarang</a>
+  </div>
+
+</section>
         
 <h3 class="ssr-category-title astro-degputgd">DEEP BATHROOM CLEANING 
 
