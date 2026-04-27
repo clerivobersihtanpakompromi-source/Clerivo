@@ -116,14 +116,6 @@ nav a {
 
 <body>
 
-<header>
-  <div class="logo">Clerivo</div>
-  <nav>
-    <a href="#home">Home</a>
-    <a href="#category">Layanan</a>
-    <a href="#contact">Kontak</a>
-  </nav>
-</header>
 
 <section id="home" class="hero">
   <h2>Rumah Bersih, Hidup Nyaman</h2>
