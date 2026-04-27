@@ -17,9 +17,6 @@ style="position:fixed; bottom:20px; right:20px;">
 <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="60">
 </a>
 
-<section id="category" class="services container">
-
-  <div class="card">
     <h3>Deep Bathroom Cleaning</h3>
     <p>Layanan pembersihan kamar mandi secara menyeluruh dengan teknik khusus untuk hasil maksimal.</p>
     
