@@ -11,7 +11,7 @@
 
 <section id="home" class="hero">
     <div class="hero-content">
-        <h2>Rumah Bersih, Hidup Nyaman</h2>
+        <h2>CLERIVO</h2>
 <a href="https://wa.me/62852113938404" target="_blank"
 style="position:fixed; bottom:20px; right:20px;">
 <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="60">
@@ -112,7 +112,7 @@ nav a {
 }
 </style>
 
-</head>
+
 
 <body>
 
