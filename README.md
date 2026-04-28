@@ -1,15 +1,21 @@
+body {
+  margin: 0;
+  padding-top: 20px;
+}
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<body>   
 <img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/CLERIVO_page-0001.jpg" width="300">  
-<header>
+<header {
+  position: relative;
+}>
 <div class="logo"></div>
 <nav>
     <a href="#home">Home</a>
     <a href="#category">Layanan</a>
     <a href="#contact">Kontak</a>
 </nav>
-</header>
+</header {
+  position: relative;
+}>
 
 
 <section id="home" class="hero">
