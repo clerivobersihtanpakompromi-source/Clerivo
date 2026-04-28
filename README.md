@@ -4,18 +4,14 @@ body {
 }
 
 <img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/CLERIVO_page-0001.jpg" width="300">  
-<header {
-  position: relative;
-}>
+<header {position: relative;}>
 <div class="logo"></div>
 <nav>
     <a href="#home">Home</a>
     <a href="#category">Layanan</a>
     <a href="#contact">Kontak</a>
 </nav>
-</header {
-  position: relative;
-}>
+</header {position: relative;}>
 
 
 <section id="home" class="hero">
@@ -38,9 +34,8 @@ body {
 }
 
 /* HEADER */
-header {
-  position: relative;
-}  background: white;
+header {position: relative;}  
+  background: white;
   padding: 15px 30px;
   display: flex;
   justify-content: space-between;
