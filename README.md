@@ -1,14 +1,13 @@
 <body>
 
 <img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/CLERIVO_page-0001.jpg" width="300">  
-</header   
+
 <div class="logo"></div>
 <nav>
     <a href="#home">Home</a>
     <a href="#category">Layanan</a>
     <a href="#contact">Kontak</a>
 </nav>
-</header   
 
 
 <section id="home" class="hero">
