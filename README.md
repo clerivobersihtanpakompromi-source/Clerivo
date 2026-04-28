@@ -1,14 +1,14 @@
-body {margin: 0;padding-top: 20px;}
+<body>
 
 <img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/CLERIVO_page-0001.jpg" width="300">  
-<header {position: relative;}>
+</header   
 <div class="logo"></div>
 <nav>
     <a href="#home">Home</a>
     <a href="#category">Layanan</a>
     <a href="#contact">Kontak</a>
 </nav>
-</header 
+</header   
 
 
 <section id="home" class="hero">
