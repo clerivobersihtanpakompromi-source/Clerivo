@@ -192,7 +192,7 @@ nav a {
             margin:0;
             font-family: Arial, sans-serif;
             background-color:#E3F2FD; /* biru muda */
-            height:100vh; /* supaya full layar */
+            .section {min-height: 100vh;}
             display:flex;
             align-items:center;
             justify-content:center;
