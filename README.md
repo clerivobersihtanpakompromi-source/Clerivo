@@ -9,7 +9,7 @@
 </nav>
 </header>
 
-![alt text](https://github.com/clerivobersihtanpakompromi-source/logo/raw/main/CLERIVO_page-0001.jpg)
+![alt text](https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/CLERIVO_page-0001.jpg)
 
 <section id="home" class="hero">
     <div class="hero-content">
