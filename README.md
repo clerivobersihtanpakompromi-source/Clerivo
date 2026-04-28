@@ -1,7 +1,4 @@
-body {
-  margin: 0;
-  padding-top: 20px;
-}
+body {margin: 0;padding-top: 20px;}
 
 <img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/CLERIVO_page-0001.jpg" width="300">  
 <header {position: relative;}>
@@ -11,7 +8,7 @@ body {
     <a href="#category">Layanan</a>
     <a href="#contact">Kontak</a>
 </nav>
-</header {position: relative;}>
+</header 
 
 
 <section id="home" class="hero">
@@ -34,7 +31,7 @@ body {
 }
 
 /* HEADER */
-header {position: relative;}  
+</header   
   background: white;
   padding: 15px 30px;
   display: flex;
