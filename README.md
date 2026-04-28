@@ -1,5 +1,5 @@
 <body>
-
+<img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/CLERIVO_page-0001.jpg" width="300">  
 <header>
 <div class="logo"></div>
 <nav>
@@ -177,7 +177,7 @@ nav a {
 <head>
     <meta charset="UTF-8">
     <title>CLERIVO</title>
-<img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/CLERIVO_page-0001.jpg" width="300">  
+
     <style>
         body{
             margin:0;
