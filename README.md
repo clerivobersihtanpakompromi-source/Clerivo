@@ -7,7 +7,7 @@
 <nav>
     <a href="#home">Home</a>
     <a href="#category">Layanan</a>
-    <a href="https://github.com/clerivobersihtanpakompromi-source/contact.html/README.md">Kontak</a>
+    <a href="clerivobersihtanpakompromi-source/contact.html">Kontak</a>
 </nav>
 
 
