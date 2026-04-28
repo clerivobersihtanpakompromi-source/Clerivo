@@ -1,8 +1,5 @@
 
-<!DOCTYPE html>
-<html lang="id">
-<head>
-	<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <body>   
 <img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/CLERIVO_page-0001.jpg" width="300">  
 <header>
