@@ -33,7 +33,8 @@ body {
 
 /* HEADER */
 header {
-  background: white;
+  position: relative;
+}  background: white;
   padding: 15px 30px;
   display: flex;
   justify-content: space-between;
