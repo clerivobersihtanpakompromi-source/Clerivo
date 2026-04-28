@@ -9,11 +9,10 @@
 </nav>
 </header>
 
-![alt text](https://github.com/clerivobersihtanpakompromi-source/logo/blob/main/CLERIVO_page-0001.jpg)
+![alt text](https://github.com/clerivobersihtanpakompromi-source/logo/raw/main/CLERIVO_page-0001.jpg)
 
 <section id="home" class="hero">
     <div class="hero-content">
-        <h2>CLERIVO</h2>
 <a href="https://wa.me/62852113938404" target="_blank"
 style="position:fixed; bottom:20px; right:20px;">
 <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="60">
