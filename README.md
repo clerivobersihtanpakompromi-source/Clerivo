@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/CLERIVO_page-0001.jpg" width="300">  
 
+<img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/CLERIVO_page-0001-removebg-preview.png" width="300">  
+
 <div class="logo"></div>
 <nav>
     <a href="#home">Home</a>
