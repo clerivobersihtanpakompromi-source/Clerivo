@@ -9,7 +9,6 @@
 </nav>
 </header>
 
-<img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/CLERIVO_page-0001.jpg" width="300">
 
 <section id="home" class="hero">
     <div class="hero-content">
@@ -178,6 +177,7 @@ nav a {
 <head>
     <meta charset="UTF-8">
     <title>CLERIVO</title>
+<img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/CLERIVO_page-0001.jpg" width="300">  
     <style>
         body{
             margin:0;
