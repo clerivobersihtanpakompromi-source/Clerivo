@@ -131,8 +131,9 @@ nav a {
 
   <!-- 1 -->
   <div class="card">
-  <div class="container">
+  <div class="auto">
     <h3>Deep Bathroom Cleaning</h3>
+ <div class="left">
     <p>Pembersihan kamar mandi menyeluruh hingga ke bagian tersulit.</p>
     <ul>
       <li>Menghilangkan kerak & noda membandel</li>
