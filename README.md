@@ -130,9 +130,6 @@ nav a {
 
   <!-- 1 -->
 <div class="card">
-.card {text-align: center; /* judul tetap tengah */}
-.list {text-align: left;padding-left: 20px;margin: 10px 0;}
-.list li {text-align: left;}
   <h3>Deep Bathroom Cleaning</h3>
 
   <p class="desc">
