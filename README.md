@@ -180,14 +180,12 @@ nav a {
     <a href="https://wa.me/6285211393844" class="btn">Pesan</a>
   </div>
 
-</section>
 
 <!-- WhatsApp -->
 <a href="https://wa.me/6285211393844" class="wa" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png">
 </a>
 
-</body>
 
 
 <html lang="id">
