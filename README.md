@@ -126,7 +126,7 @@ nav a {
 <section id="category" class="services">
 
 
-<img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/Bathroom.png" width="800">
+<img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/Bathroom.png" width="650">
 
 
   <!-- 1 -->
@@ -143,7 +143,7 @@ nav a {
   </div>
 
 
-<img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/General Cleaning.png" width="800">
+<img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/General Cleaning.png" width="650">
 
 
   <!-- 2 -->
@@ -160,7 +160,7 @@ nav a {
   </div>
 
 
-<img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/New House Cleaning.png" width="800">
+<img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/New House Cleaning.png" width="650">
 
 
   <!-- 3 -->
