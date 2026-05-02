@@ -126,7 +126,6 @@ nav a {
 <section id="category" class="services">
 
 
-
 <img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/Bathroom.png" width="800">
 
 
@@ -144,7 +143,6 @@ nav a {
   </div>
 
 
-
 <img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/General Cleaning.png" width="800">
 
 
@@ -160,8 +158,6 @@ nav a {
     </ul>
     <a href="https://wa.me/6285211393844" class="btn">Pesan</a>
   </div>
-
-
 
 
 <img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/New House Cleaning.png" width="800">
