@@ -137,7 +137,7 @@ nav a {
   </p>
 
   <ul class="list">
-margin-left: 20px;{<li>Menghilangkan kerak & noda membandel</li>}
+    <li>Menghilangkan kerak & noda membandel</li>
     <li>Membersihkan jamur & bakteri</li>
     <li>Membersihkan lantai & dinding</li>
     <li>Sanitasi toilet & wastafel</li>
