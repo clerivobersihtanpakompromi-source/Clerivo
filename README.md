@@ -132,8 +132,10 @@ nav a {
 <div class="card">
   <h3>Deep Bathroom Cleaning</h3>
 
-  <div class="content">
-    <p>Pembersihan kamar mandi menyeluruh hingga ke bagian tersulit.</p>
+<div class="content">
+  <p>Pembersihan kamar mandi menyeluruh hingga ke bagian tersulit.</p>
+
+  <div class="list-kiri">
     <ul>
       <li>Menghilangkan kerak & noda membandel</li>
       <li>Membersihkan jamur & bakteri</li>
@@ -141,6 +143,7 @@ nav a {
       <li>Sanitasi toilet & wastafel</li>
     </ul>
   </div>
+</div>
 
   <a href="https://wa.me/6285211393844" class="btn">Pesan</a>
 </div>
