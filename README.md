@@ -129,10 +129,10 @@ nav a {
 <img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/Bathroom.png" width="650">
 
 
-  <!-- 1 -->
-  <div class="card">
-  <div class="auto"><h3>Deep Bathroom Cleaning</h3>
- <div class="left">
+<div class="card">
+  <h3>Deep Bathroom Cleaning</h3>
+
+  <div class="content">
     <p>Pembersihan kamar mandi menyeluruh hingga ke bagian tersulit.</p>
     <ul>
       <li>Menghilangkan kerak & noda membandel</li>
@@ -140,8 +140,10 @@ nav a {
       <li>Membersihkan lantai & dinding</li>
       <li>Sanitasi toilet & wastafel</li>
     </ul>
-    <a href="https://wa.me/6285211393844" class="btn">Pesan</a>
   </div>
+
+  <a href="https://wa.me/6285211393844" class="btn">Pesan</a>
+</div>
 
 
 <img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/General Cleaning.png" width="650">
