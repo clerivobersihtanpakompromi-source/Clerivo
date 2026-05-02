@@ -125,7 +125,7 @@ nav a {
 
 <section id="category" class="services">
 
-
+<div class="card">
 <img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/Bathroom.png" width="650">
 
 
