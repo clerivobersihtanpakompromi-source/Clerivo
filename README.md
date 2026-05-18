@@ -138,10 +138,10 @@ nav a {
 
   <ul class="list">
     Menghilangkan kerak & noda membandel
-    <li>Membersihkan jamur & bakteri</li>
-    <li>Membersihkan lantai & dinding</li>
-    <li>Sanitasi toilet & wastafel</li>
-  </ul>
+    Membersihkan jamur & bakteri
+    Membersihkan lantai & dinding
+    Sanitasi toilet & wastafel
+  
 
   <a href="https://wa.me/6285213938404" class="btn">Pesan</a>
 </div>
