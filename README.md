@@ -137,14 +137,13 @@ nav a {
   </p>
 
   <ul class="list">
-<p> Menghilangkan kerak & noda membandel
-<p> Membersihkan jamur & bakteri
-<p> Membersihkan lantai & dinding
-<p> Sanitasi toilet & wastafel
-  
+<li>Menghilangkan kerak & noda membandel</li>
+<li>Membersihkan jamur & bakteri</li>
+<li>Membersihkan lantai & dinding</li>
+<li>Sanitasi toilet & wastafel</li>
   </ul>
   <a href="https://wa.me/6285213938404" class="btn">Pesan</a>
-
+</div>
 
 <img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/General Cleaning.png" width="650">
 
