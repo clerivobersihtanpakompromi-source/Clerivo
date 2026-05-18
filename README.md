@@ -142,7 +142,7 @@ nav a {
 <p> Membersihkan lantai & dinding
 <p> Sanitasi toilet & wastafel
   
-
+  </ul>
   <a href="https://wa.me/6285213938404" class="btn">Pesan</a>
 
 
