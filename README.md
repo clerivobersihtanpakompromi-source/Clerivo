@@ -13,7 +13,7 @@
 
 <section id="home" class="hero">
     <div class="hero-content">
-<a href="https://wa.me/62852113938404" target="_blank"
+<a href="https://wa.me/6285213938404" target="_blank"
 style="position:fixed; bottom:20px; right:20px;">
 <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="60">
 </a>
@@ -143,7 +143,7 @@ nav a {
     <li>Sanitasi toilet & wastafel</li>
   </ul>
 
-  <a href="https://wa.me/6285211393844" class="btn">Pesan</a>
+  <a href="https://wa.me/6285213938404" class="btn">Pesan</a>
 </div>
 
 
@@ -160,7 +160,7 @@ nav a {
       <li>Pembersihan dapur</li>
       <li>Perawatan harian rumah</li>
     </ul>
-    <a href="https://wa.me/6285211393844" class="btn">Pesan</a>
+    <a href="https://wa.me/6285213938404" class="btn">Pesan</a>
   </div>
 
 
@@ -177,12 +177,12 @@ nav a {
       <li>Membersihkan kaca & jendela</li>
       <li>Siap huni & segar</li>
     </ul>
-    <a href="https://wa.me/6285211393844" class="btn">Pesan</a>
+    <a href="https://wa.me/6285213938404" class="btn">Pesan</a>
   </div>
 
 
 <!-- WhatsApp -->
-<a href="https://wa.me/6285211393844" class="wa" target="_blank">
+<a href="https://wa.me/6285213938404" class="wa" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png">
 </a>
 
