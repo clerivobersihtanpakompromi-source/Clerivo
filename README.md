@@ -128,6 +128,19 @@ nav a {
 <div class="card">
 <img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/Bathroom.png" width="650">
 
+.card {
+  text-align: center;
+}
+
+.list {
+  text-align: left;
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.list li {
+  margin-bottom: 10px;
+}
   <!-- 1 -->
 <div class="card">
   <h3>Deep Bathroom Cleaning</h3>
