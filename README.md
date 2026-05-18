@@ -126,7 +126,7 @@ nav a {
 <section id="category" class="services">
 
 <div class="card">
-<img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/Bathroom.png" width="650">
+<img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/Bthroom 2.png" width="650">
 
   <!-- 1 -->
 <div class="card">
