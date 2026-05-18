@@ -137,7 +137,7 @@ nav a {
   </p>
 
   <ul class="list">
-    <li>Menghilangkan kerak & noda membandel</li>
+    Menghilangkan kerak & noda membandel
     <li>Membersihkan jamur & bakteri</li>
     <li>Membersihkan lantai & dinding</li>
     <li>Sanitasi toilet & wastafel</li>
