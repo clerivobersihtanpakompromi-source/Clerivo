@@ -160,114 +160,57 @@ width:65px;
 }
 
 
+/* CONTACT PAGE */
 .contact-page{
-  padding:80px 20px;
-  min-height:100vh;
-
-  background:
-    linear-gradient(
-      rgba(10, 61, 145, 0.92),
-      rgba(30, 64, 175, 0.92)
-    ),
-    url("https://images.unsplash.com/photo-1512428559087-560fa5ceab42?w=1200");
-
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding:50px 20px;
+    background:linear-gradient(
+      135deg,
+      #0b3fa8,
+      #2563eb,
+      #3b82f6
+    );
 }
 
-.contact-header{
-  text-align:center;
-  margin-bottom:50px;
-  color:white;
+.contact-box{
+    width:100%;
+    max-width:850px;
+    background:#fff;
+    color:#333;
+    padding:50px;
+    border-radius:30px;
+    box-shadow:0 20px 40px rgba(0,0,0,.25);
 }
 
-.contact-header h1{
-  font-size:42px;
-  margin-bottom:15px;
-}
-
-.contact-header p{
-  max-width:700px;
-  margin:auto;
-  line-height:1.7;
-}
-
-.contact-container{
-  max-width:1100px;
-  margin:auto;
-  display:grid;
-  grid-template-columns:1fr 1fr;
-  gap:30px;
-}
-
-.contact-info,
-.contact-form{
-  background:rgba(255,255,255,0.95);
-  backdrop-filter:blur(10px);
-  padding:35px;
-  border-radius:20px;
-  box-shadow:0 10px 30px rgba(0,0,0,0.15);
-}
-
-.contact-info h2,
-.contact-form h2{
-  margin-bottom:25px;
-  color:#1e40af;
-}
-
-.info-item{
-  margin-bottom:25px;
-}
-
-.info-item h3{
-  color:#2563eb;
-  margin-bottom:8px;
-}
-
+/* FORM */
 .contact-form form{
-  display:flex;
-  flex-direction:column;
-  gap:15px;
+    display:flex;
+    flex-direction:column;
+    gap:15px;
 }
 
 .contact-form input,
 .contact-form textarea{
-  width:100%;
-  padding:15px;
-  border:1px solid #dbeafe;
-  border-radius:10px;
-  font-size:15px;
-}
-
-.contact-form input:focus,
-.contact-form textarea:focus{
-  outline:none;
-  border-color:#2563eb;
+    width:100%;
+    padding:15px;
+    border:1px solid #dbeafe;
+    border-radius:10px;
+    font-size:15px;
+    box-sizing:border-box;
 }
 
 .contact-form button{
-  background:#2563eb;
-  color:white;
-  border:none;
-  padding:15px;
-  border-radius:10px;
-  cursor:pointer;
-  font-size:16px;
-  transition:0.3s;
+    background:#2563eb;
+    color:#fff;
+    border:none;
+    padding:15px;
+    border-radius:10px;
+    cursor:pointer;
 }
 
 .contact-form button:hover{
-  background:#1d4ed8;
-  transform:translateY(-2px);
-}
-
-@media(max-width:768px){
-  .contact-container{
-    grid-template-columns:1fr;
-  }
-
-  .contact-header h1{
-    font-size:32px;
-  }
+    background:#1d4ed8;
 }
