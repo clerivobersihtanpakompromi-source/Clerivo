@@ -320,7 +320,7 @@ body {
 
 .banner {
   width: 100%;
-  height: 150px;      /* ini yang bikin bentuk landscape */
+  height: 300px;      /* ini yang bikin bentuk landscape */
   object-fit: cover;  /* biar tetap rapi, tidak gepeng */
   display: block;
 }
