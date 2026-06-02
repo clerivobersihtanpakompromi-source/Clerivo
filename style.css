@@ -211,7 +211,5 @@ width:65px;
     cursor:pointer;
 }
 
-.contact-form button:hover{
-    background:#1d4ed8;
-}
+.contact-form button:hover{ transform:translateY(-3px); box-shadow:0 10px 20px rgba(37,211,102,.4); }
 
