@@ -7,7 +7,7 @@
 <nav>
     <a href="#home">Home</a>
     <a href="#category">Layanan</a>
-    <a href="clerivobersihtanpakompromi-source/contact.html"></a>
+    <a href="#contact.html">Kontak</a>
 </nav>
 
 
