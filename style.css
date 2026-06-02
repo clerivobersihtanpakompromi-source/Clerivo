@@ -246,7 +246,7 @@ background:linear-gradient(
 
 .hero-text{
 max-width:800px;
-background:#25D366;
+background:#FFFFFF;
 padding:50px;
 border-radius:25px;
 text-align:center;
@@ -287,7 +287,7 @@ font-size:16px;
 .btn{
 display:inline-block;
 background:#25D366;
-color:#25D366;
+color:#0b3fa8;
 text-decoration:none;
 padding:15px 30px;
 border-radius:50px;
