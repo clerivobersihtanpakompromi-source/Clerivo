@@ -158,3 +158,38 @@ bottom:20px;
 .wa img{
 width:65px;
 }
+
+
+/* CONTACT PAGE */
+
+.contact-page{
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding:40px;
+}
+
+.contact-box{
+    background:white;
+    color:#333;
+    width:100%;
+    max-width:700px;
+    padding:50px;
+    border-radius:25px;
+    text-align:center;
+    box-shadow:0 10px 30px rgba(0,0,0,.2);
+}
+
+.contact-box h1{
+    color:#0b3fa8;
+    margin-bottom:20px;
+}
+
+.contact-box p{
+    line-height:1.8;
+}
+
+.contact-info{
+    margin:30px 0;
+}
