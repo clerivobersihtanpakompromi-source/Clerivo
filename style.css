@@ -310,7 +310,12 @@ box-shadow:0 10px 20px rgba(37,211,102,.4);
 
 }
 
-img {
-  width: 200px;   /* atur lebar */
-  height: auto;   /* biar tidak gepeng */
+body {
+  margin: 0;
+}
+
+.banner {
+  width: 100%;
+  height: auto;
+  display: block;
 }
