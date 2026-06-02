@@ -213,3 +213,104 @@ width:65px;
 
 .contact-form button:hover{ transform:translateY(-3px); box-shadow:0 10px 20px rgba(37,211,102,.4); }
 
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+body{
+font-family:'Poppins',sans-serif;
+}
+
+.hero{
+min-height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+padding:40px 20px;
+
+```
+background:linear-gradient(
+    135deg,
+    #0b3fa8,
+    #2563eb,
+    #3b82f6
+);
+```
+
+}
+
+.hero-text{
+max-width:800px;
+background:#fff;
+padding:50px;
+border-radius:25px;
+text-align:center;
+box-shadow:0 15px 40px rgba(0,0,0,.2);
+}
+
+.hero-text h1{
+color:#0b3fa8;
+font-size:3rem;
+margin-bottom:20px;
+line-height:1.2;
+}
+
+.hero-text p{
+color:#555;
+line-height:1.8;
+margin-bottom:15px;
+}
+
+.hero-text h3{
+margin-top:30px;
+margin-bottom:20px;
+color:#0b3fa8;
+}
+
+.benefit-list{
+list-style:none;
+text-align:left;
+max-width:400px;
+margin:0 auto 30px;
+}
+
+.benefit-list li{
+padding:10px 0;
+font-size:16px;
+}
+
+.btn{
+display:inline-block;
+background:#25D366;
+color:#fff;
+text-decoration:none;
+padding:15px 30px;
+border-radius:50px;
+font-weight:600;
+transition:.3s;
+}
+
+.btn:hover{
+transform:translateY(-3px);
+box-shadow:0 10px 20px rgba(37,211,102,.4);
+}
+
+@media(max-width:768px){
+
+```
+.hero-text{
+    padding:30px;
+}
+
+.hero-text h1{
+    font-size:2rem;
+}
+```
+
+}
+
