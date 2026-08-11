@@ -142,7 +142,7 @@ nav a {
 <li>Membersihkan lantai & dinding</li>
 <li>Sanitasi toilet & wastafel</li>
     </ul>
-    <a href="https://wa.me/6285213938404" class="btn">Pesan</a>
+    <a href="https://wa.me/628" class="btn">Pesan</a>
   </div>
 
 <img src="https://raw.githubusercontent.com/clerivobersihtanpakompromi-source/logo/main/General Cleaning.png" width="650">
@@ -158,7 +158,7 @@ nav a {
       <li>Pembersihan dapur</li>
       <li>Perawatan harian rumah</li>
     </ul>
-    <a href="https://wa.me/6285213938404" class="btn">Pesan</a>
+    <a href="https://wa.me/6285" class="btn">Pesan</a>
   </div>
 
 
@@ -175,12 +175,12 @@ nav a {
       <li>Membersihkan kaca & jendela</li>
       <li>Siap huni & segar</li>
     </ul>
-    <a href="https://wa.me/6285213938404" class="btn">Pesan</a>
+    <a href="https://wa.me/6285" class="btn">Pesan</a>
   </div>
 
 
 <!-- WhatsApp -->
-<a href="https://wa.me/6285213938404" class="wa" target="_blank">
+<a href="https://wa.me/6285" class="wa" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png">
 </a>
 
